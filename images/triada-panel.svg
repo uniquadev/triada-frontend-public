@@ -1,0 +1,19 @@
+<svg width="420" height="300" viewBox="0 0 420 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="38" y="34" width="344" height="214" rx="42" fill="#FFFFFF" stroke="#D8E3FB" stroke-width="8"/>
+  <path d="M84 174C132 112 190 97 252 133C300 160 326 147 354 114" stroke="#CCFF00" stroke-width="26" stroke-linecap="round"/>
+  <path d="M84 174C132 112 190 97 252 133C300 160 326 147 354 114" stroke="#111C2D" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 18"/>
+  <circle cx="92" cy="172" r="25" fill="#8A4CFC"/>
+  <circle cx="250" cy="132" r="25" fill="#00D1FF"/>
+  <circle cx="350" cy="116" r="25" fill="#CCFF00"/>
+  <rect x="106" y="74" width="72" height="18" rx="9" fill="#D8E3FB"/>
+  <rect x="106" y="74" width="38" height="18" rx="9" fill="#CCFF00">
+    <animate attributeName="width" values="38;66;44;72;38" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <g>
+    <rect x="254" y="62" width="74" height="74" rx="22" fill="#F0F3FF"/>
+    <rect x="274" y="84" width="12" height="32" rx="6" fill="#CCFF00"/>
+    <rect x="292" y="76" width="12" height="40" rx="6" fill="#00D1FF"/>
+    <rect x="310" y="94" width="12" height="22" rx="6" fill="#8A4CFC"/>
+    <animateTransform attributeName="transform" type="rotate" values="-2 291 99;2 291 99;-2 291 99" dur="5s" repeatCount="indefinite"/>
+  </g>
+</svg>

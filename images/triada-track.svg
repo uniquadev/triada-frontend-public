@@ -1,0 +1,20 @@
+<svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Triada playful training track</title>
+  <desc id="desc">A rounded cartoon training path with soft hills, checkpoints and a small dashboard card.</desc>
+  <rect x="28" y="42" width="664" height="276" rx="72" fill="#F8FBFF"/>
+  <path d="M96 236C164 144 250 121 355 180C454 235 516 229 626 112" stroke="#D8E3FB" stroke-width="46" stroke-linecap="round"/>
+  <path d="M96 236C164 144 250 121 355 180C454 235 516 229 626 112" stroke="#CCFF00" stroke-width="24" stroke-linecap="round"/>
+  <path d="M120 236C184 163 256 151 342 199C442 256 528 233 620 133" stroke="#17351F" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 22"/>
+  <circle cx="120" cy="236" r="28" fill="#8A4CFC"/>
+  <circle cx="120" cy="236" r="12" fill="#F9F9FF"/>
+  <circle cx="350" cy="180" r="28" fill="#00D1FF"/>
+  <circle cx="350" cy="180" r="12" fill="#F9F9FF"/>
+  <circle cx="614" cy="126" r="28" fill="#CCFF00"/>
+  <circle cx="614" cy="126" r="12" fill="#17351F"/>
+  <rect x="432" y="62" width="144" height="92" rx="26" fill="#FFFFFF" stroke="#D8E3FB" stroke-width="5"/>
+  <rect x="456" y="91" width="28" height="38" rx="14" fill="#CCFF00"/>
+  <rect x="493" y="78" width="28" height="51" rx="14" fill="#00D1FF"/>
+  <rect x="530" y="104" width="28" height="25" rx="12.5" fill="#8A4CFC"/>
+  <path d="M150 84C179 53 214 57 236 90C248 108 279 111 295 95" stroke="#00D1FF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M170 302C205 279 236 284 257 312" stroke="#8A4CFC" stroke-width="13" stroke-linecap="round"/>
+</svg>
