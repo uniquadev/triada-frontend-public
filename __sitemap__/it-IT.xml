@@ -1,55 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://triada.app/</loc>
-        <xhtml:link rel="alternate" href="https://triada.app/" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://triada.app/" hreflang="it-IT" />
-        <xhtml:link rel="alternate" href="https://triada.app/en" hreflang="en-US" />
+        <loc>https://triada.uniqua.dev/</loc>
+        <xhtml:link rel="alternate" href="https://triada.uniqua.dev/" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://triada.uniqua.dev/" hreflang="it-IT" />
+        <xhtml:link rel="alternate" href="https://triada.uniqua.dev/en" hreflang="en-US" />
         <image:image>
-            <image:loc>https://triada.app/images/triada-panel.svg</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-track-meals.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/triada-phone.svg</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-athlete-route.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/athlete_transparent.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/panda-run-bowl.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/gem_1.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/layers/gem-main.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/coin.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/layers/key-reward.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/star.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/layers/star-reward.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/key.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/star.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/gem_2.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/key.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/gem_4.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/gem_1.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/personal_transparent.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/gem_2.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/doctor_transparent.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/coin.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/chest_1.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/gem_4.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/gem_3.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/panda-tablet.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/chest_4.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/layers/reward-cluster.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://triada.app/images/icon_gems/chest_3.png</image:loc>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-progress-share.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/panda-celebrate.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-connect-board.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-pro-suite.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-pro-tools.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/athlete_transparent.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/panda-professional.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/story-layers/ui-import-export.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/icon_gems/chest_3.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://triada.uniqua.dev/images/triada-phone.svg</image:loc>
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-05-22T16:52:28.217Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-07-02T19:31:05.377Z -->

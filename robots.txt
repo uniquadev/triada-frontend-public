@@ -4,5 +4,5 @@ Allow: /
 Allow: /en/
 Disallow: 
 
-Sitemap: https://triada.app/sitemap_index.xml
+Sitemap: https://triada.uniqua.dev/sitemap_index.xml
 # END nuxt-robots

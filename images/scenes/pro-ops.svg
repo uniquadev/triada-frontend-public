@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Triada pro operations prototype">
+  
+  <defs>
+    <linearGradient id="bgSoft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9f9ff"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+    <linearGradient id="bgBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#edf9ff"/>
+      <stop offset="100%" stop-color="#d8efff"/>
+    </linearGradient>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15184b"/>
+      <stop offset="100%" stop-color="#0d1036"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#21304f" flood-opacity="0.16"/>
+    </filter>
+    <filter id="shadowSoft" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#21304f" flood-opacity="0.12"/>
+    </filter>
+    <filter id="glow" x="-35%" y="-35%" width="170%" height="170%">
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#bffb00" flood-opacity="0.4"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="currentColor"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgSoft)"/>
+  
+      <circle cx="148" cy="180" r="82" fill="#edf7d8"/>
+      <circle cx="1040" cy="176" r="98" fill="#dff4ff"/>
+      
+  <rect x="152" y="124" width="370" height="570" rx="42" fill="#ffffff" stroke="#dfe8fb" stroke-width="8"/>
+
+      <rect x="192" y="174" width="176" height="24" rx="12" fill="#8bd100"/>
+      <rect x="192" y="224" width="188" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="192" y="264" width="122" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="192" y="324" width="280" height="84" rx="24" fill="#f8fbff" stroke="#e0e8fb" stroke-width="6"/>
+      <rect x="192" y="428" width="280" height="84" rx="24" fill="#f8fbff" stroke="#e0e8fb" stroke-width="6"/>
+      <rect x="192" y="532" width="280" height="84" rx="24" fill="#f8fbff" stroke="#e0e8fb" stroke-width="6"/>
+      <circle cx="228" cy="366" r="18" fill="#1cb0f6"/>
+      <circle cx="228" cy="470" r="18" fill="#8bd100"/>
+      <circle cx="228" cy="574" r="18" fill="#ffb000"/>
+      <rect x="266" y="348" width="160" height="18" rx="9" fill="#dfe8fb"/>
+      <rect x="266" y="452" width="126" height="18" rx="9" fill="#dfe8fb"/>
+      <rect x="266" y="556" width="184" height="18" rx="9" fill="#dfe8fb"/>
+      <rect x="586" y="164" width="430" height="220" rx="40" fill="#ffffff" stroke="#dfe8fb" stroke-width="8" filter="url(#shadowSoft)"/>
+      <rect x="624" y="204" width="154" height="18" rx="9" fill="#caff00"/>
+      <rect x="624" y="240" width="238" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="624" y="272" width="190" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="624" y="304" width="214" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="624" y="336" width="142" height="16" rx="8" fill="#dfe8fb"/>
+      <rect x="586" y="434" width="430" height="184" rx="40" fill="#ffffff" stroke="#dfe8fb" stroke-width="8"/>
+      <rect x="626" y="474" width="84" height="84" rx="24" fill="#1cb0f6"/>
+      <rect x="734" y="474" width="84" height="84" rx="24" fill="#8a4cfc"/>
+      <rect x="842" y="474" width="84" height="84" rx="24" fill="#ffb000"/>
+      <path d="M678 516 h26" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+      <path d="M786 516 h26" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+      <path d="M894 516 h26" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+      
+  <g transform="translate(910 690) scale(1)">
+    <ellipse cx="0" cy="176" rx="68" ry="14" fill="#22324a" opacity="0.13"/>
+    <rect x="-50" y="86" width="100" height="114" rx="40" fill="#f6b31a"/>
+    <rect x="-18" y="112" width="36" height="78" rx="18" fill="#f7fbff" opacity="0.95"/>
+    <circle cx="0" cy="46" r="68" fill="#f7fbff"/>
+    <circle cx="-42" cy="0" r="26" fill="#24344a"/>
+    <circle cx="42" cy="0" r="26" fill="#24344a"/>
+    <ellipse cx="-26" cy="34" rx="20" ry="24" fill="#24344a" transform="rotate(-20 -26 34)"/>
+    <ellipse cx="26" cy="34" rx="20" ry="24" fill="#24344a" transform="rotate(20 26 34)"/>
+    <circle cx="-22" cy="44" r="8" fill="#263143"/>
+    <circle cx="22" cy="44" r="8" fill="#263143"/>
+    <circle cx="-19" cy="41" r="2.2" fill="#ffffff"/>
+    <circle cx="25" cy="41" r="2.2" fill="#ffffff"/>
+    <ellipse cx="0" cy="56" rx="26" ry="22" fill="#fff9f3"/>
+    <circle cx="0" cy="54" r="6.6" fill="#8bd100"/>
+    <path d="M-8 64 C-2 70, 2 70, 8 64" fill="none" stroke="#24344a" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="-46" cy="56" r="8" fill="#ffb7be" opacity="0.8"/>
+    <circle cx="46" cy="56" r="8" fill="#ffb7be" opacity="0.8"/>
+    <rect x="-78" y="92" width="28" height="70" rx="14" fill="#f6b31a" transform="rotate(-24 -78 92)"/>
+    <rect x="50" y="80" width="28" height="84" rx="14" fill="#f6b31a" transform="rotate(18 50 80)"/>
+    <rect x="-45" y="168" width="28" height="22" rx="10" fill="#8bd100"/>
+    <rect x="17" y="168" width="28" height="22" rx="10" fill="#8bd100"/>
+    <path d="M-73 133 C-90 154, -86 166, -66 170" fill="none" stroke="#24344a" stroke-width="7" stroke-linecap="round"/>
+    <path d="M71 122 C88 144, 92 158, 82 170" fill="none" stroke="#24344a" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+      <path d="M556 710 C664 664, 772 660, 888 694" fill="none" stroke="#1cb0f6" stroke-width="14" stroke-linecap="round"/>
+      <circle cx="606" cy="708" r="16" fill="#8bd100"/>
+      <circle cx="804" cy="704" r="16" fill="#8a4cfc"/>
+    
+</svg>
